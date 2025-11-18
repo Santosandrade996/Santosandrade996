@@ -15,22 +15,21 @@
 
 
 ### 🧰 Tecnologias Usadas:
-<div style="display: inline_block"><br/>
-<img  align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img  align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img  align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,python"/>
+  </a>
+</p>
 
 ### 🎓 Certificações e Formações:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-1BA0D7?style=flat&logo=cisco&logoColor=white" width="70" height="50"/>
+</p>
 
-<img align="center" alt="Cisco" src="https://img.shields.io/badge/Cisco%20Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-- 🧠 Introduction to Networks  
-- 🔐 Cybersecurity Essentials  
-- 🧩 Network Security  
-- 💻 IT Essentials  
 
 
  
