@@ -22,7 +22,7 @@
 </p>
 
 ### 🎓 Certificações e Formações:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure"/>
   </a>
