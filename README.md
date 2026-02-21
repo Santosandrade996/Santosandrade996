@@ -28,11 +28,7 @@ Atualmente aprimorando conhecimentos em JavaScript e desenvolvimento web.
 
 ---
 
-## 📊 Estatísticas GitHub
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Santosandrade996&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosandrade996&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" />
-</div>
+
 
 ---
 
