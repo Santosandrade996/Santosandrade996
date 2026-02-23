@@ -1,42 +1,9 @@
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004c65&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=369C32&height=120&section=header"/>
 
-# Olá Sou Giselle Santos!
-
-## 🚀 Sobre mim
-Tecnóloga em Redes de Computadores, com foco em Segurança da Informação e desenvolvimento Front-end. 
-Experiência com suporte técnico, análise de incidentes, hardening básico e fundamentos de redes.
-Atualmente aprimorando conhecimentos em JavaScript e desenvolvimento web.
-
----
-
-## 🛠️ Stack Principal
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Git & GitHub
-
----
-
-## 🔐 Certificações
-- Google Cybersecurity
-- Cisco Cybersecurity
-- Microsoft Azure (Fundamentos)
-- Automação N8N
-
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=076638&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Giselle+Santos;Computer+Networks+Technologist;IT+Support;and+Cybersecurity;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-
----
-
-## 🌐 Contato
-- LinkedIn: www.linkedin.com/in/giselle-santos-21ab221b6/
-- Email: giselleandrade1996@gmail.com
-
----
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004c65&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=369C32&height=120&section=footer"/>
 
