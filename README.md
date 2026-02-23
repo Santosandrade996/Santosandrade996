@@ -25,6 +25,11 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117)](https://www.linkedin.com/in/https://www.linkedin.com/in/giselle-santos-21ab221b6/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0D1117)](https://wa.me/5521970735806)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=076638&height=120&section=footer"/>
